@@ -1,7 +1,7 @@
 {
-    "name": "AutoProtecc Userbot",
-    "descreption": "It will autoprotecc waifus, servants or husbandos.",
-    "repository": "https://github.com/zYxDevs/AutoProtecc-Userbot",
+    "name": "hm",
+    "descreption": "ok",
+    "repository": "https://telegra.ph/file/e77f4c8fd10a4751c0040.jpg",
     "keywords": [
         "python",
         "pyrogram",
@@ -16,7 +16,7 @@
         "autoprotecc"
     ],
     "website": "https://t.me/AutoProtecc",
-    "logo": "https://telegra.ph/file/ad370fb4d879fd29a9489.jpg",
+    "logo": "https://telegra.ph/file/e77f4c8fd10a4751c0040.jpg",
     "env": {
         "API_ID": {
             "descreption": "Get thid value from my.telegram.org"
